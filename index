@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的简单网页</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #666;
+        }
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <h1>欢迎来到我的简单网页</h1>
+    <p>这是一个用HTML制作的简单网页示例。</p>
+    <p>你可以在这里添加更多的内容、图片和链接。</p>
+    <p>访问 <a href="https://www.example.com">我的链接</a> 了解更多信息。</p>
+</body>
+</html>
